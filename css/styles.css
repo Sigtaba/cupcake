@@ -1,0 +1,58 @@
+h1 {
+  font-family: fantasy;
+  color: #824CA9;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+}
+h2 {
+  font-family: fantasy;
+  color: #238F7C;
+  font-size: 35px;
+  text-align: center;
+}
+
+h3{
+  font-family: sans-serif;
+  color: #824CA9;
+  font-weight: bold;
+}
+
+img {
+  width: 500px;
+  vertical-align: middle;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+  text-align: center;
+}
+
+.best {
+  color: #2CB40F;
+  font-style: oblique;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  color: #940359;
+  font-size: 20px;
+  text-align: center;
+}
+
+ul {
+  font-family: cursive;
+  font-size: 15px;
+  text-align: center;
+  text-decoration-style: solid;
+}
+
+li  {
+  font-family: cursive;
+  font-size: 15px;
+  text-align: center;
+  list-style-type: none;
+}
